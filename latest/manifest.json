@@ -1,6 +1,6 @@
 {
-  "backup_job_id": "ef222f7f78c9468d8d506cb8975b03b3",
-  "captured_at": "2026-09-11T14:07:30.754641+00:00",
+  "backup_job_id": "58183ba912cf4e49b0a68a649d600de4",
+  "captured_at": "2026-09-11T14:09:34.329846+00:00",
   "excluded_nodes": [],
   "files": [
     {
@@ -71,9 +71,9 @@
       "node": "clab-BGP_TheoryToPractice-RTR6",
       "path": "RTR6.cfg",
       "platform": "arista_ceos",
-      "sha256": "f05307f50f5e3fee2ea7eab721364c8ca868f52d8d3e9fbedcb46a5b7a885be1",
+      "sha256": "642627bdd11f6c16e9e0837ea09e063088a62e84ecb960b3f829b548b7b0f228",
       "short_name": "RTR6",
-      "size": 1048
+      "size": 1050
     },
     {
       "format": "eos-running-config",
