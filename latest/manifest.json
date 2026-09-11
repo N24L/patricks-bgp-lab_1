@@ -1,0 +1,134 @@
+{
+  "backup_job_id": "b56d112c04324d808fb426fe714d8563",
+  "captured_at": "2026-09-11T13:46:07.277849+00:00",
+  "excluded_nodes": [],
+  "files": [
+    {
+      "format": "iosxr-running-config",
+      "node": "clab-BGP_TheoryToPractice-GTW-1",
+      "path": "GTW-1.cfg",
+      "platform": "cisco_xrv9k",
+      "sha256": "aaf670ca79ae604733ffd589ac950927ef06a0b1ae70e2664b77febe14a26d25",
+      "short_name": "GTW-1",
+      "size": 1111
+    },
+    {
+      "format": "junos-display-set",
+      "node": "clab-BGP_TheoryToPractice-GTW-2",
+      "path": "GTW-2.set",
+      "platform": "juniper_cjunosevolved",
+      "sha256": "17605fe6880f759cb2daf2a723a1ba8c94739241d7345ced0df28281c35faf86",
+      "short_name": "GTW-2",
+      "size": 701
+    },
+    {
+      "format": "eos-running-config",
+      "node": "clab-BGP_TheoryToPractice-IXP-L2-Switch",
+      "path": "IXP-L2-Switch.cfg",
+      "platform": "arista_ceos",
+      "sha256": "8858f217705817daa416752079ea4dd97f9f6689400d89803ebc285ea52f6515",
+      "short_name": "IXP-L2-Switch",
+      "size": 1102
+    },
+    {
+      "format": "eos-running-config",
+      "node": "clab-BGP_TheoryToPractice-Internet",
+      "path": "Internet.cfg",
+      "platform": "arista_ceos",
+      "sha256": "2fc6810065b6c1b5625639c4d8a6df6bf984546b561a6cb9193bad4ea4659f1c",
+      "short_name": "Internet",
+      "size": 1049
+    },
+    {
+      "format": "iosxr-running-config",
+      "node": "clab-BGP_TheoryToPractice-PE1",
+      "path": "PE1.cfg",
+      "platform": "cisco_xrv9k",
+      "sha256": "a7f4ce36a6ba7319f8bb160489dafed35ee5c0e7c0afeddba2794a04029507e4",
+      "short_name": "PE1",
+      "size": 1154
+    },
+    {
+      "format": "junos-display-set",
+      "node": "clab-BGP_TheoryToPractice-PE2",
+      "path": "PE2.set",
+      "platform": "juniper_cjunosevolved",
+      "sha256": "784e4c532a8f963ca62101b4f7feecc17bb2ffcbe5bce5f60384c7d24e24d313",
+      "short_name": "PE2",
+      "size": 553
+    },
+    {
+      "format": "eos-running-config",
+      "node": "clab-BGP_TheoryToPractice-RTR5",
+      "path": "RTR5.cfg",
+      "platform": "arista_ceos",
+      "sha256": "25d3a48c35d5928a997e7297c670b5e1d4fcf2e6bb75980a21bfe53a65a2836a",
+      "short_name": "RTR5",
+      "size": 1041
+    },
+    {
+      "format": "eos-running-config",
+      "node": "clab-BGP_TheoryToPractice-RTR6",
+      "path": "RTR6.cfg",
+      "platform": "arista_ceos",
+      "sha256": "e370cc49a058fbc8bba677724455aff2d19d479094d3b8408c0378ab8bb3b958",
+      "short_name": "RTR6",
+      "size": 1040
+    },
+    {
+      "format": "eos-running-config",
+      "node": "clab-BGP_TheoryToPractice-RTR7",
+      "path": "RTR7.cfg",
+      "platform": "arista_ceos",
+      "sha256": "a0acd752ae8eabae3520269041279987665cda03c11ccd4cfdeeaf3cdc5a7ad7",
+      "short_name": "RTR7",
+      "size": 891
+    },
+    {
+      "format": "eos-running-config",
+      "node": "clab-BGP_TheoryToPractice-RTR8",
+      "path": "RTR8.cfg",
+      "platform": "arista_ceos",
+      "sha256": "c0eab2c3e0da6bc44d0fc1e1ec5ad3e7ec3edbfa818f06480c41dc2148ca0491",
+      "short_name": "RTR8",
+      "size": 891
+    },
+    {
+      "format": "iosxr-running-config",
+      "node": "clab-BGP_TheoryToPractice-UP-1",
+      "path": "UP-1.cfg",
+      "platform": "cisco_xrv9k",
+      "sha256": "d3a3c7f46bdb78468c907f84d27bbb8d6613ac91b85a259e0d32c307db72fb60",
+      "short_name": "UP-1",
+      "size": 1020
+    },
+    {
+      "format": "junos-display-set",
+      "node": "clab-BGP_TheoryToPractice-UP-2",
+      "path": "UP-2.set",
+      "platform": "juniper_cjunosevolved",
+      "sha256": "46f2c6f22960a316d44cd9d1f39295a26dfe37e2f75d2afba600da41be8e7920",
+      "short_name": "UP-2",
+      "size": 553
+    }
+  ],
+  "lab_id": "922b18e8d10a418a93edd8476f0e8ce7",
+  "lab_name": "BGP_TheoryToPractice",
+  "node_names": [
+    "clab-BGP_TheoryToPractice-GTW-1",
+    "clab-BGP_TheoryToPractice-GTW-2",
+    "clab-BGP_TheoryToPractice-IXP-L2-Switch",
+    "clab-BGP_TheoryToPractice-Internet",
+    "clab-BGP_TheoryToPractice-PE1",
+    "clab-BGP_TheoryToPractice-PE2",
+    "clab-BGP_TheoryToPractice-RTR5",
+    "clab-BGP_TheoryToPractice-RTR6",
+    "clab-BGP_TheoryToPractice-RTR7",
+    "clab-BGP_TheoryToPractice-RTR8",
+    "clab-BGP_TheoryToPractice-UP-1",
+    "clab-BGP_TheoryToPractice-UP-2"
+  ],
+  "schema": 1,
+  "topology_digest": "3742526b8089ec1a7c161c0b0e757727f317d630ebf80167f732c27dde3bd46a",
+  "topology_provenance": "captured"
+}
