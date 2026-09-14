@@ -1,0 +1,54 @@
+{
+  "backup_job_id": "fefa4ff84da249798695703fad90a85d",
+  "captured_at": "2026-09-14T02:32:21.293376+00:00",
+  "excluded_nodes": [],
+  "files": [
+    {
+      "format": "junos-display-set",
+      "node": "clab-BGP-Base-RTR1",
+      "path": "RTR1.set",
+      "platform": "juniper_cjunosevolved",
+      "sha256": "784e4c532a8f963ca62101b4f7feecc17bb2ffcbe5bce5f60384c7d24e24d313",
+      "short_name": "RTR1",
+      "size": 553
+    },
+    {
+      "format": "eos-running-config",
+      "node": "clab-BGP-Base-RTR2",
+      "path": "RTR2.cfg",
+      "platform": "arista_ceos",
+      "sha256": "a1f925357a85deb2fdf80de40d14d2b23b11329ef73af8609e0b4440e64694e5",
+      "short_name": "RTR2",
+      "size": 1018
+    },
+    {
+      "format": "junos-display-set",
+      "node": "clab-BGP-Base-RTR3",
+      "path": "RTR3.set",
+      "platform": "juniper_cjunosevolved",
+      "sha256": "46f2c6f22960a316d44cd9d1f39295a26dfe37e2f75d2afba600da41be8e7920",
+      "short_name": "RTR3",
+      "size": 553
+    },
+    {
+      "format": "junos-display-set",
+      "node": "clab-BGP-Base-SW1",
+      "path": "SW1.set",
+      "platform": "juniper_vjunosswitch",
+      "sha256": "63c645ea067b46254834da8a8a0ae0e91397f17c800fe54c04ac085533405196",
+      "short_name": "SW1",
+      "size": 914
+    }
+  ],
+  "lab_id": "aa176d49e0bd44d191900a4bac66c8c5",
+  "lab_name": "BGP-Base",
+  "node_names": [
+    "clab-BGP-Base-RTR1",
+    "clab-BGP-Base-RTR2",
+    "clab-BGP-Base-RTR3",
+    "clab-BGP-Base-SW1"
+  ],
+  "schema": 1,
+  "topology_digest": "6156c6461e4c4471a44cff8251ea86d43f0b1ccfbf619ead640422652bee86dd",
+  "topology_provenance": "captured"
+}
