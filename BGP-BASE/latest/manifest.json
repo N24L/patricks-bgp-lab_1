@@ -1,6 +1,6 @@
 {
-  "backup_job_id": "fefa4ff84da249798695703fad90a85d",
-  "captured_at": "2026-09-14T02:32:21.293376+00:00",
+  "backup_job_id": "b965cac1684842b9b55d57c8cf9b3135",
+  "captured_at": "2026-09-14T12:39:47.959118+00:00",
   "excluded_nodes": [],
   "files": [
     {
@@ -8,7 +8,7 @@
       "node": "clab-BGP-Base-RTR1",
       "path": "RTR1.set",
       "platform": "juniper_cjunosevolved",
-      "sha256": "784e4c532a8f963ca62101b4f7feecc17bb2ffcbe5bce5f60384c7d24e24d313",
+      "sha256": "46f2c6f22960a316d44cd9d1f39295a26dfe37e2f75d2afba600da41be8e7920",
       "short_name": "RTR1",
       "size": 553
     },
@@ -17,7 +17,7 @@
       "node": "clab-BGP-Base-RTR2",
       "path": "RTR2.cfg",
       "platform": "arista_ceos",
-      "sha256": "a1f925357a85deb2fdf80de40d14d2b23b11329ef73af8609e0b4440e64694e5",
+      "sha256": "575d870e4173e1d1fd396e65ecf2b8067dc6300684e7e8e5123b4f54ee4b963f",
       "short_name": "RTR2",
       "size": 1018
     },
@@ -26,7 +26,7 @@
       "node": "clab-BGP-Base-RTR3",
       "path": "RTR3.set",
       "platform": "juniper_cjunosevolved",
-      "sha256": "46f2c6f22960a316d44cd9d1f39295a26dfe37e2f75d2afba600da41be8e7920",
+      "sha256": "6c9a154ec5978927172c4fd374a4764ecbec172c8d58b8ae9c9b774b536e8bb3",
       "short_name": "RTR3",
       "size": 553
     },
@@ -35,12 +35,12 @@
       "node": "clab-BGP-Base-SW1",
       "path": "SW1.set",
       "platform": "juniper_vjunosswitch",
-      "sha256": "63c645ea067b46254834da8a8a0ae0e91397f17c800fe54c04ac085533405196",
+      "sha256": "09605caaf31cd9fe855f44c1c54547df6793a815ceeb4fcbdf0cddbcca388945",
       "short_name": "SW1",
       "size": 914
     }
   ],
-  "lab_id": "aa176d49e0bd44d191900a4bac66c8c5",
+  "lab_id": "e0fc9826761d4ffdac0c6903e3a544ac",
   "lab_name": "BGP-Base",
   "node_names": [
     "clab-BGP-Base-RTR1",

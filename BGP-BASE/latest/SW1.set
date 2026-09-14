@@ -1,9 +1,9 @@
 set version 23.2R1.14
 set system host-name SW1
-set system root-authentication encrypted-password "$6$zpd2A.zX$m8DiMMcJu1H9VDcy4EYaZLRKvML/5DthR6aeS/DNtSIahGkT32TnIG/aNGS81BsDEgAlF2LpuCET5I7NgeAwp1"
+set system root-authentication encrypted-password "$6$BpnVnSe.$8iawPk.5uEx8gDQAN/iAjtCtF4gB45l9by.57TC.YDyY3bAHBZL6lbTMoW0uh7MTZarkFmnK0JPvrKrUIMh9K1"
 set system login user admin uid 2000
 set system login user admin class super-user
-set system login user admin authentication encrypted-password "$6$cBLTBKZh$jPT/22SuXXAdUigQcXCQi8tjDe2SwKxraX55sjyww45uOy.niJDwbPugiM3M5HEhJFBtMChaLSTqUfVjy8k44."
+set system login user admin authentication encrypted-password "$6$FIDhzF4S$a0JG5djSKd.UDXyatduyLpwQ.HziOndfYZDab71YL756qbMevm6JIkdwYK0stzEWMpHPNuL2hZ.JeQMWuTN.f1"
 set system services ssh root-login allow
 set system services netconf ssh
 set system management-instance

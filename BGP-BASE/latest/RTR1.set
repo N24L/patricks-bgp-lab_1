@@ -7,4 +7,4 @@ set system syslog file interactive-commands interactive-commands any
 set system syslog file messages any notice
 set system syslog file messages authorization info
 set system services ssh
-set interfaces re0:mgmt-0 unit 0 family inet address 172.20.20.3/24
+set interfaces re0:mgmt-0 unit 0 family inet address 172.20.20.2/24
